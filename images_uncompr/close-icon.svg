@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="42px" height="42px" viewBox="0 0 42 42" enable-background="new 0 0 42 42" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="26.012,17.42 24.58,15.987 20.992,19.576 17.465,16.05 
+				16.051,17.465 19.577,20.991 15.988,24.58 17.42,26.013 21.009,22.423 24.537,25.95 25.951,24.535 22.424,21.008 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M21,42C9.421,42,0,32.58,0,21C0,9.421,9.421,0,21,0s21,9.421,21,21C42,32.58,32.579,42,21,42z M21,2
+			C10.523,2,2,10.523,2,21s8.523,19,19,19s19-8.523,19-19S31.477,2,21,2z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="42px" height="42px" viewBox="0 0 42 42" enable-background="new 0 0 42 42" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#ffffff" d="M21,42C9.42,42,0,32.579,0,21S9.42,0,21,0c11.58,0,21,9.421,21,21S32.58,42,21,42z M21,2
+			C10.523,2,2,10.523,2,21s8.523,19,19,19s19-8.523,19-19S31.477,2,21,2z"/>
+	</g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M15,16v2h12v-2H15z M15,22h12v-2H15V22z M15,26h12v-2H15V26z"/>
+	</g>
+</g>
+</svg>
